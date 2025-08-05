@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohammad Alyaan</h1>
-<h3 align="center">A passionate java developer.</h3>
+<h3 align="center">A passionate web developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alyaansidd&label=Profile%20views&color=0e75b6&style=flat" alt="alyaansidd" /> </p>
 
 - 🔭 I’m currently working on **my skills**
 
-- 🌱 I’m currently learning **C/C++, DSA**
+- 🌱 I’m currently learning **Backend Technologies**
 
-- 👯 I’m looking to collaborate on **Java based projects.**
+- 👯 I’m looking to collaborate on **Front End based projects**
 
 - 📫 How to reach me **alyaansiddiqui998@gmail.com**
 
